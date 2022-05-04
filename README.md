@@ -5,16 +5,18 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Öncelikle [projeyi](https://github.com/Aprencher/kodluyoruzilkrepo.git) clonelayın.
 
+![](Capture.PNG)
+
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-"""
+'''
 cd kodluyoruzilkrepo
 code .
-"""
+'''
 
 ## Contributing
 
